@@ -6,9 +6,17 @@
     "orientation": "portrait",
     "icon": "./icon.png",
     "userInterfaceStyle": "light",
-    "splash": { "image": "./splash.png", "resizeMode": "contain", "backgroundColor": "#f7f8fa" },
+    "splash": {
+      "image": "./splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f7f8fa"
+    },
     "android": {
       "package": "com.user.roicalculator",
-      "adaptiveIcon": { "foregroundImage": "./adaptive-icon.png", "backgroundColor": "#ffffff" }
+      "adaptiveIcon": {
+        "foregroundImage": "./adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    }
   }
 }
