@@ -6,17 +6,9 @@
     "orientation": "portrait",
     "icon": "./icon.png",
     "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#f7f8fa"
-    },
-    "android": {
-      "package": "com.user.roicalculator",
-      "adaptiveIcon": {
-        "foregroundImage": "./adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
-    }
+    "splash": { "image": "./splash.png", "resizeMode": "contain", "backgroundColor": "#f7f8fa" },
+    "android": { "package": "com.user.roicalculator",
+      "adaptiveIcon": { "foregroundImage": "./adaptive-icon.png", "backgroundColor": "#ffffff" } },
+    "extra": { "eas": { "projectId": "888e2bd8-b24c-4b05-b777-d2ce904c343b" } }
   }
 }
