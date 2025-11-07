@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "수익률 계산기",
-    "slug": "roi-calculator-app",
+    "slug": "calcul",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./icon.png",
