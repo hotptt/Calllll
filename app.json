@@ -10,6 +10,5 @@
     "android": {
       "package": "com.user.roicalculator",
       "adaptiveIcon": { "foregroundImage": "./adaptive-icon.png", "backgroundColor": "#ffffff" }
-    },
   }
 }
